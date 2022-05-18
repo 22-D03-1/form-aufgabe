@@ -1,0 +1,30 @@
+body {
+    background-image: url(./ian-schneider-PAykYb-8Er8-unsplash.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+form {
+    background-color: rgba(248, 235, 235, 0.308);
+    margin-left: 50px;
+    width: 20%;
+    text-align: center;
+    margin-top: 30px;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+input {
+    background-color: rgb(188, 181, 193);
+    color: #000;
+    border: 7px black;
+}
+textarea {
+    background-color: rgb(188, 181, 193);
+}
+button {
+    background-color: whitesmoke;
+}
